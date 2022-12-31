@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main3() {
+int main13() {
   int i;
   cout <<"value of i:"<< i << endl;
   i++;

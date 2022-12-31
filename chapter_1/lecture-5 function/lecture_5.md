@@ -1,6 +1,8 @@
-## lecture 3 outcomes
+## lecture 5 outcomes
 
-- a[10] is a size of 40 bytes array.
+- in c/c++ fuction, when passing a parameter it sends a copy of a value.
+  - different case for array.
+
   - what will be the value of a?
     - Answer: value of a is the address of the      a[0]. it is vice-versa.
   - After a[0] = 5; What will be the value of *a?

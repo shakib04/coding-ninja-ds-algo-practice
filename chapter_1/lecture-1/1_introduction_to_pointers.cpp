@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main1() {
+int main11() {
   int i = 10;
   cout <<"address of i:"<< &i << endl;
   int *p = &i;

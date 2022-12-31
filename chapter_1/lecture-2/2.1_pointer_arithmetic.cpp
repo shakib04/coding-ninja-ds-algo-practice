@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main4(){
+int main121(){
   int i = 10;
   int *p = &i;
   cout <<"value of p:"<< p << endl;

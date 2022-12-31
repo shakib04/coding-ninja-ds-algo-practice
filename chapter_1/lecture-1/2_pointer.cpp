@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main2() {
+int main12() {
   int i = 10;
   int *p = &i;
   cout << "size of p: " << sizeof(p) << endl;
