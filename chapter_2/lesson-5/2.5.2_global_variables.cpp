@@ -1,0 +1,21 @@
+#include<iostream>
+using namespace std;
+
+int a;
+
+void g(){
+  a++;
+  cout << a << endl;
+}
+
+void f(){
+  cout << a << endl;
+  a++;
+  g();
+}
+
+int main252(){
+  a = 10;
+  f();
+  cout << a <<endl;
+}

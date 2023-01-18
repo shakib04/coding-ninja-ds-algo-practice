@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int main231(){
   int *p = new int;
   *p = 20;
   p[1] = 2;
